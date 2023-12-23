@@ -1,3 +1,5 @@
+![image](https://developer.okta.com/assets-jekyll/blog/react-login/react-login-6afe2718d05b65ecdcfea2bfb316d0a47af174fad1e225d7e59a6b3619a41c3f.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
